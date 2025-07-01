@@ -1,5 +1,5 @@
 {
-  "enabled": true,
+  "enabled": false,
   "version": "1.1.0",
   "download_url": "https://github.com/twojanazwa/projekt/releases/tag/v1.1.0",
   "blocked_users": ["blocked_computer_name"],
