@@ -6,19 +6,19 @@ Nie jest to cheat, nie ingeruje w pliki gry i nie jest wykrywalny podczas sprawd
 💎 Crystal PvP:
 🔹 Auto Crystal – automatyczne stawianie i detonowanie kryształów
 
-🔹 Auto Crystal Base – wersja zoptymalizowana pod bazowe PvP
+🔹 Auto Crystal Base – Automatyczne stawianie obsydianiu pod kryształ
 
-🔹 Auto Anchor – wsparcie dla walki w Netherze z Respawn Anchor
+🔹 Auto Anchor – wsparcie dla walki dzieki auto Anchor
 
-🔹 Auto Totem – automatyczna wymiana totema przy niskim HP
+🔹 Auto Totem – automatyczna zakłądanie totemu pod przycisk
 
 ⚔️ Klasyczne PvP:
 🔸 Wsparcie PvP – makra do standardowej walki mieczem/toporem
 
 🛠️ Dodatkowe narzędzia:
-🕸️ Auto Web Placer – automatyczne stawianie pajęczyny pod przeciwnikiem
+🕸️ Auto Web Placer – automatyczne stawianie pajęczyny
 
-🔩 Auto Lever Placer – błyskawiczne stawianie dźwigni do crystal combo
+🔩 Auto Lever Placer – błyskawiczne stawianie dźwigni 
 
 🔁 Szybka zmiana: Dźwignia ⇄ Pajęczyna – jedno kliknięcie, szybka reakcja
 
