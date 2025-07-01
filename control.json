@@ -1,5 +1,5 @@
 {
-  "enabled": true, 
+  "block": true, 
   "version": "2.0.1", 
   "download_url": "https://github.com/IkProgramer/MoonMacro",
   "message": "Wersja rozwojowa - dostępna tylko dla autora."
