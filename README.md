@@ -45,7 +45,7 @@ Nazwa: poprostu_nick
 
 Zaproszenie do Discorda: Kliknij tutaj
 
-📎 Linki i kontakt: guns.lol/ik./
+📎 Linki i kontakt: [guns.lol/ik./](https://guns.lol/_ik_./)
 
 🧠 Uwaga
 MoonMakro to pomocniczy program, który daje przewagę graczom PvP, nie naruszając zasad większości serwerów.
